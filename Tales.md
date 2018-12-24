@@ -9,8 +9,8 @@ Let's start with the simplest possible tale. It just has has one scene and no ch
 
 ```xml
 <talebones layout='/Layouts/Simple'>
-	<scene name='Scene001' full-text='Scene001/full-text.md'>
-	</scene>
+    <scene name='Scene001' full-text='Scene001/full-text.md'>
+    </scene>
 </talebones>
 ```
 
